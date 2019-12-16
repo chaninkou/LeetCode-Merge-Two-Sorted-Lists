@@ -28,6 +28,8 @@ public class Main {
 			System.out.print(current.val + " -> ");
 			current = current.next;
 		}
+		
+		// Print out the null too, smart idea here
 		System.out.println(current);
 	}
 }
