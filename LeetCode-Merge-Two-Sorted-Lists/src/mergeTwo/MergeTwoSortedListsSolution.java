@@ -55,6 +55,7 @@ public class MergeTwoSortedListsSolution {
             current.next = l1;
         }
         
+        // Since we had 0 as place holder
         return placeHolder.next;
     }
 }
