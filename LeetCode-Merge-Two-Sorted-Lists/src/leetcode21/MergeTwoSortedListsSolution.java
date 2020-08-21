@@ -1,4 +1,4 @@
-package mergeTwo;
+package leetcode21;
 
 public class MergeTwoSortedListsSolution {
 //	public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

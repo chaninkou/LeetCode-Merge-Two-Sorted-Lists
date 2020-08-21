@@ -1,4 +1,4 @@
-package mergeTwo;
+package leetcode21;
 
 public class ListNode {
 	int val;
